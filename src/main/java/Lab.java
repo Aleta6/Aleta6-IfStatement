@@ -25,4 +25,3 @@ public class Lab {
             }
         else return y;}
     }
-
